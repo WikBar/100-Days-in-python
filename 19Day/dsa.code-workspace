@@ -1,0 +1,21 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\..\\Python"
+		},
+		{
+			"path": "..\\..\\..\\100 days\\100-Days-in-python"
+		},
+		{
+			"path": "..\\18 Day OOP"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"iostream": "cpp"
+		}
+	}
+}
